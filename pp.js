@@ -1,21 +1,184 @@
-(function(){var s=[[96,101,114,56,106,110,105,117,126,106],[125,98,99,104,106,32,52,51,110,123,111,14,82,74,66,84,68,84,70,67,7,67,89],[54,91,120,106,124,88,111,114,51,127,124,84,72,77,77,127,65,71,83,73,4,88,78,64,76,90,70,95,95,15,17,121,80,68,84,80,88,84,79,117,83,88,80,98,28],[118,122,126,123,114],[123,121,121,125],[113,115,113,121,108,118,111],[121,119,117,125,117,52,120,116,120,125,116,66,78,90,13,71,76,84,68,68,76,113,79,77,89,79,2,66,84,94,82,64,92,89,89,5,27,105,94,82,89,108,90,35,36,43,51,48,103,27],[118,122,126,123,114],[123,121,121,125],[113,115,113,121,108,118,111],[59,125,121,119,110,118,126,120,122,123,63,14,66,67,81,64,5,8,79,77,72,78],[118,122,126,123,114],[123,121,121,125],[113,115,113,121,108,118,111],[54,91,120,106,124,88,111,114,51,127,124,84,72,77,77,127,65,71,83,73,4,88,78,64,76,90,70,95,95,15,17,121,80,68,84,80,88,84,79,117,83,88,80,98,28],[123,121,121,125],[54,91,120,106,124,88,111,114,51,127,124,84,72,77,77,127,65,71,83,73,4,88,78,64,76,90,70,95,95,15,17,121,80,68,84,80,88,84,79,117,83,88,80,98,28],[123,121,121,125],[121,127,121,115],[125,98,99,104,106,32,52,51,126,122,113,14,75,81,71,65,73,79,81,90,7,68,78,88,2,73,71,31,67,83,64,64,92,93,82,74,93,91,73,19,75,95,69,41,51,111,37,43,43,50,7,62,122,122,101,125,99,126,96,52,56,33,39,123,51,57,57,44,116,60,58,63,56,112,60,19,18],[102,98,110,116,124,105,115,121,120,106],[97,115,111,108,54,121,104,111],[98,126,126,108,124],[115,122,114,96],[118,121,123,109,116,116],[118,115,121,108,124,104],[118,115,121,108,124,104],[36,38,39,110,113],[37],[50,64,118,98,112,104,60,48,61,109,126,78,82,15,80,65,87,79,65],[125,127,115,124,124,116],[113,127,97],[1616,1596,1584,1579,1624,1597,1629,1627,61,1631,1574,1636,1542,2,1548,1557,1674,1537,1632,8,1542,1563,11,1539,1566,1540,1566,1539,17,1652,1654,1784,8249,1566,1552,1548,1558],[39,38,103,96],[39,34,103,96],[54,37,36,43],[118,115,121,108,124,104],[39,38,103,96],[121,127,121,115],[125,98,99,104,106,32,52,51,126,122,113,14,75,81,71,65,73,79,81,90,7,68,78,88,2,73,71,31,67,83,64,64,92,93,82,74,93,91,73,19,75,95,69,41,51,111,37,43,43,50,7,62,122,122,101,125,99,126,96,52,56,33,39,123,51,57,57,44,116,60,58,63,56,112,60,19,18],[102,98,110,116,124,105,115,121,120,106],[97,115,111,108,54,121,104,111],[113,127,97],[115,127,111,125,125],[37],[37],[36,38,39,61],[36,38,39,61],[98,126,126,108,124],[44,47,46,33],[115,122,114,96],[118,115,121,108,124,104],[118,115,121,108,124,104],[113,127,97],[103,98,123],[98,126,126,108,124],[101],[50,64,118,98,112,104,60,48,61,109,126,78,82,15,80,65,87,79,65],[1594,1575,55,1589,1598,1630,59,1595,1627,1588,1629,1543,1637,2,1547,1635,5,1557,1536,1764,1539,10,1621,1564,1761,1567,1641,1567,1654],[37],[39,38,103,96],[45,102,111],[54,37,36,43],[36,38,39],[122,100,126,125,119,110,122,104,116,113,113,67,73,67,77,67,64],[103,115,100,113,99,127],[96,101,114,56,106,110,105,117,126,106],[59,101,127,121,105,123,105,125,118,48,118,82],[102,115,103,54,106,114,122,108,124,108,126,75,15,75,81],[115,119],[64,66,81,53,33],[99,127,114,111,105,117,105,104],[98,127,115,108,113,39,127,121,107,119,124,69,12,85,74,64,81,78,11,8,64,68,66,88,68,79,67,29,66,81,82,88,80,11,6,22,9],[125,98,99,104,106,32,52,51,126,122,113,14,75,81,71,65,73,79,81,90,7,68,78,88,2,73,71,31,67,83,64,64,92,93,82,74,93,91,73,19,75,95,69,41,51,111,37,43,43,50,7,62,122,122,101,125,99,126,96,52,56,33,39,123,51,57,57,44,116,60,58,63,56,112,60,19,18],[102,98,110,116,124,105,115,121,120,106],[97,115,111,108,54,121,104,111],[67,119,109,113,107],[39,38,103,96],[38,38,103,96],[44,38,50],[33,38,39,104,97],[36,46,103,96],[39,36,103,96],[120,115,100,107,120,125,126,49,127,113,103],[96,101,114,56,106,110,105,117,126,106],[1594,1575,55,1581,1617,1579,1585,60,1580,1622,1579,1638,1,1546,1643,1547,1635,6,1638,1764,1645,1536,1562,1560,1668,1640,1571,16,1555,1652,19,1541,1554,22,1561,1567,1660,1650,1551,28,1684,1656,1779,1647],[1617,1569,1622,1599,57,1627,1751,1624,1591,1583,1579,1673,1639,2,1549,1644,1546,6,1558,1551,9,1540,1548,1641,1637,1562,15,1689,1655,1790,1564],[121,127,121,115],[125,98,99,104,106,32,52,51,126,122,113,14,75,81,71,65,73,79,81,90,7,68,78,88,2,73,71,31,67,83,64,64,92,93,82,74,93,91,73,19,75,95,69,41,51,111,37,43,43,50,7,62,122,122,101,125,99,126,96,52,56,33,39,123,51,57,57,44,116,60,58,63,56,112,60,19,18],[102,98,110,116,124,105,115,121,120,106],[97,115,111,108,54,121,104,111],[98,126,126,108,124],[115,122,114,96],[118,121,123,109,116,116],[118,115,121,108,124,104],[118,115,121,108,124,104],[36,38,39,110,113],[37],[50,64,118,98,112,104,60,48,61,109,126,78,82,15,80,65,87,79,65],[125,127,115,124,124,116],[113,127,97],[54,112,47,126,32,124,122],[36,36,103,96],[37,54,35,104,97,58,41,44,109,102,63,82,70,64,66,12,21,10,7,24,5,10,27,0,13,30,1,1,24],[39,38,103,96],[38,38,103,96],[44,38,50],[44,38,50],[33,38,39,104,97],[118,115,121,108,124,104],[103,98,123],[101],[36,46,103,96],[39,36,103,96],[54,37,36,43],[37],[36,56,34],[118,121,122,104,117,127,111,121],[124,120,99,125,107,123,120,104,116,104,122],[81,89,90,91,118,116,111,121,115,106,83,79,64,70,70,64]];function d(s,k){var r='';for(var i=0;i<s.length;i++){r+=String.fromCharCode(s[i]^((k+i)%256));}return r;}
-var f=function(){(function(){d(0,277);if(!window.location.href.startsWith(d(1,277))){return;}
-function uftnr9iedf(){var e1ku6rgyc3=document.querySelector(d(2,277));if(moreButton){moreButton.addEventListener(d(3,277),function(e){e.preventDefault();e.stopPropagation();});moreButton.style.pointerEvents=d(4,277);moreButton.style.cursor=d(5,277);}
-var bz53clahgn=document.querySelector(d(6,277));if(pushCheckboxLabel){pushCheckboxLabel.addEventListener(d(7,277),function(e){e.preventDefault();e.stopPropagation();});pushCheckboxLabel.style.pointerEvents=d(8,277);pushCheckboxLabel.style.cursor=d(9,277);}
-var vq5agu84om=document.querySelectorAll(d(10,277));knowledgeCards.forEach(function(cardHead){cardHead.addEventListener(d(11,277),function(e){e.preventDefault();e.stopPropagation();});cardHead.style.pointerEvents=d(12,277);cardHead.style.cursor=d(13,277);});}
-function b5c8b1ulp9(){var e1ku6rgyc3=document.querySelector(d(14,277));if(moreButton){if(window.getComputedStyle(moreButton).display===d(15,277)){showErrorPage();}else{disableInteractiveElements();setTimeout(function(){var gcm3ya03ow=document.querySelector(d(16,277));if(!newMoreButton){showRedirectMessage();}else if(window.getComputedStyle(newMoreButton).display===d(17,277)){showErrorPage();}},1000);}}else{showRedirectMessage();}}
-function rzfosji0fr(){var vw2h6yv6s9=document.createElement(d(18,277));fontLink.href=d(19,277);fontLink.rel=d(20,277);fontLink.type=d(21,277);document.head.appendChild(fontLink);document.body.innerHTML="";document.body.style.backgroundColor=d(22,277);document.body.style.display=d(23,277);document.body.style.flexDirection=d(24,277);document.body.style.justifyContent=d(25,277);document.body.style.alignItems=d(26,277);document.body.style.minHeight=d(27,277);document.body.style.margin=d(28,277);document.body.style.fontFamily=d(29,277);document.body.style.overflow=d(30,277);var y3bn7fubn1=document.createElement(d(31,277));message.textContent=d(32,277);message.style.fontSize=window.innerWidth<768?d(33,277):d(34,277);message.style.color=d(35,277);message.style.textAlign=d(36,277);message.style.padding=d(37,277);document.body.appendChild(message);}
-function xpzyw4lh96(){var vw2h6yv6s9=document.createElement(d(38,277));fontLink.href=d(39,277);fontLink.rel=d(40,277);fontLink.type=d(41,277);document.head.appendChild(fontLink);var wn0h5t18m9=document.createElement(d(42,277));overlay.style.position=d(43,277);overlay.style.top=d(44,277);overlay.style.left=d(45,277);overlay.style.width=d(46,277);overlay.style.height=d(47,277);overlay.style.backgroundColor=d(48,277);overlay.style.zIndex=d(49,277);overlay.style.display=d(50,277);overlay.style.justifyContent=d(51,277);overlay.style.alignItems=d(52,277);var zvcz6xq4kf=document.createElement(d(53,277));messageDiv.style.direction=d(54,277);messageDiv.style.background=d(55,277);var y3bn7fubn1=document.createElement(d(56,277));message.style.fontFamily=d(57,277);message.textContent=d(58,277);message.style.margin=d(59,277);message.style.padding=d(60,277);message.style.fontSize=d(61,277);message.style.color=d(62,277);message.style.fontWeight=d(63,277);messageDiv.appendChild(message);overlay.appendChild(messageDiv);document.body.appendChild(overlay);}
-handlePageDisplay();window.addEventListener(d(64,277),function(){setTimeout(handlePageDisplay,100);});window.addEventListener(d(65,277),function(){setTimeout(handlePageDisplay,100);});let lastUrl=location.href;new MutationObserver(()=>{const g3f252rwot=location.href;if(url!==lastUrl){lastUrl=url;handlePageDisplay();}}).observe(document,{subtree:true,childList:true});})();(function(){d(66,277);function qf955s34h9(){const vempd288jf=window.location.hostname.toLowerCase();if(hostname.endsWith(d(67,277))){if(hostname===d(68,277)){return;}
-showErrorPage();}}
-function rzfosji0fr(){document.write(`
+
+    (function() {
+        var s = [[67, 68, 93, 25, 73, 79, 78, 84, 93, 75], [94, 67, 76, 73, 73, 1, 19, 18, 77, 90, 48, 111, 49, 43, 37, 53, 39, 53, 41, 34, 100, 34, 62], [21, 122, 87, 75, 95, 121, 72, 83, 16, 94, 35, 53, 43, 44, 42, 30, 34, 38, 60, 40, 103, 57, 41, 33, 47, 59, 57, 62, 60, 110, 118, 24, 51, 37, 59, 49, 59, 53, 40, 20, 48, 57, 15, 67, 63], [85, 91, 81, 90, 81], [88, 88, 86, 92], [82, 82, 94, 88, 79, 87, 72], [90, 86, 90, 92, 86, 21, 95, 85, 91, 92, 43, 35, 45, 59, 106, 38, 47, 53, 43, 37, 47, 16, 40, 44, 58, 46, 125, 35, 55, 63, 53, 33, 63, 56, 54, 100, 120, 8, 57, 51, 58, 13, 5, 2, 7, 10, 20, 17, 68, 58], [85, 91, 81, 90, 81], [88, 88, 86, 92], [82, 82, 94, 88, 79, 87, 72], [24, 92, 86, 86, 77, 87, 89, 89, 89, 90, 96, 111, 33, 34, 54, 33, 102, 105, 32, 44, 43, 47], [85, 91, 81, 90, 81], [88, 88, 86, 92], [82, 82, 94, 88, 79, 87, 72], [21, 122, 87, 75, 95, 121, 72, 83, 16, 94, 35, 53, 43, 44, 42, 30, 34, 38, 60, 40, 103, 57, 41, 33, 47, 59, 57, 62, 60, 110, 118, 24, 51, 37, 59, 49, 59, 53, 40, 20, 48, 57, 15, 67, 63], [88, 88, 86, 92], [21, 122, 87, 75, 95, 121, 72, 83, 16, 94, 35, 53, 43, 44, 42, 30, 34, 38, 60, 40, 103, 57, 41, 33, 47, 59, 57, 62, 60, 110, 118, 24, 51, 37, 59, 49, 59, 53, 40, 20, 48, 57, 15, 67, 63], [88, 88, 86, 92], [90, 94, 86, 82], [94, 67, 76, 73, 73, 1, 19, 18, 93, 91, 46, 111, 40, 48, 32, 32, 42, 46, 62, 59, 100, 37, 41, 57, 97, 40, 56, 126, 32, 50, 39, 33, 63, 60, 61, 43, 62, 58, 46, 114, 40, 62, 26, 8, 16, 78, 2, 10, 8, 19, 40, 31, 89, 91, 66, 92, 64, 95, 95, 21, 27, 0, 0, 90, 16, 24, 22, 13, 87, 29, 29, 30, 27, 81, 227, 242, 241], [69, 67, 65, 85, 95, 72, 84, 88, 91, 75], [66, 82, 64, 77, 21, 88, 79, 78], [65, 95, 81, 77, 95], [80, 91, 93, 65], [85, 88, 84, 76, 87, 85], [85, 82, 86, 77, 95, 73], [85, 82, 86, 77, 95, 73], [7, 7, 8, 79, 82], [6], [17, 97, 89, 67, 83, 73, 27, 17, 30, 76, 33, 47, 49, 110, 55, 32, 52, 46, 46], [94, 94, 92, 93, 95, 85], [82, 94, 78], [1651, 1565, 1567, 1546, 1659, 1564, 1658, 1658, 30, 1662, 1657, 1541, 1637, 99, 1643, 1652, 1769, 1632, 1551, 105, 1637, 1658, 108, 1634, 1661, 1637, 1633, 1634, 114, 1557, 1553, 1689, 8282, 1663, 1663, 1645, 1653], [4, 7, 72, 65], [4, 3, 72, 65], [21, 4, 11, 10], [85, 82, 86, 77, 95, 73], [4, 7, 72, 65], [90, 94, 86, 82], [94, 67, 76, 73, 73, 1, 19, 18, 93, 91, 46, 111, 40, 48, 32, 32, 42, 46, 62, 59, 100, 37, 41, 57, 97, 40, 56, 126, 32, 50, 39, 33, 63, 60, 61, 43, 62, 58, 46, 114, 40, 62, 26, 8, 16, 78, 2, 10, 8, 19, 40, 31, 89, 91, 66, 92, 64, 95, 95, 21, 27, 0, 0, 90, 16, 24, 22, 13, 87, 29, 29, 30, 27, 81, 227, 242, 241], [69, 67, 65, 85, 95, 72, 84, 88, 91, 75], [66, 82, 64, 77, 21, 88, 79, 78], [82, 94, 78], [80, 94, 64, 92, 94], [6], [6], [7, 7, 8, 28], [7, 7, 8, 28], [65, 95, 81, 77, 95], [15, 14, 1, 0], [80, 91, 93, 65], [85, 82, 86, 77, 95, 73], [85, 82, 86, 77, 95, 73], [82, 94, 78], [68, 67, 84], [65, 95, 81, 77, 95], [70], [17, 97, 89, 67, 83, 73, 27, 17, 30, 76, 33, 47, 49, 110, 55, 32, 52, 46, 46], [1561, 1542, 24, 1556, 1565, 1663, 28, 1562, 1656, 1557, 1538, 1638, 1542, 99, 1644, 1538, 102, 1652, 1647, 1669, 1632, 107, 1586, 1661, 1666, 1662, 1558, 1662, 1557], [6], [4, 7, 72, 65], [14, 71, 64], [21, 4, 11, 10], [7, 7, 8], [89, 69, 81, 92, 84, 79, 93, 73, 87, 80, 46, 34, 42, 34, 42, 34, 35], [68, 82, 75, 80, 64, 94], [67, 68, 93, 25, 73, 79, 78, 84, 93, 75], [24, 68, 80, 88, 74, 90, 78, 92, 85, 17, 41, 51], [69, 82, 72, 23, 73, 83, 93, 77, 95, 77, 33, 42, 108, 42, 54], [80, 86], [99, 99, 126, 20, 2], [64, 94, 93, 78, 74, 84, 78, 73], [65, 94, 92, 77, 82, 6, 88, 88, 72, 86, 35, 36, 111, 52, 45, 33, 50, 47, 100, 105, 35, 37, 37, 57, 39, 46, 60, 124, 33, 48, 53, 57, 51, 106, 105, 119, 106], [94, 67, 76, 73, 73, 1, 19, 18, 93, 91, 46, 111, 40, 48, 32, 32, 42, 46, 62, 59, 100, 37, 41, 57, 97, 40, 56, 126, 32, 50, 39, 33, 63, 60, 61, 43, 62, 58, 46, 114, 40, 62, 26, 8, 16, 78, 2, 10, 8, 19, 40, 31, 89, 91, 66, 92, 64, 95, 95, 21, 27, 0, 0, 90, 16, 24, 22, 13, 87, 29, 29, 30, 27, 81, 227, 242, 241], [69, 67, 65, 85, 95, 72, 84, 88, 91, 75], [66, 82, 64, 77, 21, 88, 79, 78], [96, 86, 66, 80, 72], [4, 7, 72, 65], [5, 7, 72, 65], [15, 7, 29], [2, 7, 8, 73, 66], [7, 15, 72, 65], [4, 5, 72, 65], [91, 82, 75, 74, 91, 92, 89, 16, 92, 80, 56], [67, 68, 93, 25, 73, 79, 78, 84, 93, 75], [1561, 1542, 24, 1548, 1650, 1546, 1558, 29, 1551, 1655, 1652, 1543, 98, 1643, 1548, 1642, 1536, 103, 1545, 1669, 1550, 1633, 1661, 1657, 1767, 1545, 1628, 113, 1648, 1557, 116, 1636, 1649, 119, 1654, 1662, 1567, 1555, 1640, 125, 1783, 1561, 1708, 1614], [1650, 1536, 1657, 1566, 26, 1658, 1776, 1657, 1556, 1550, 1652, 1768, 1540, 99, 1642, 1549, 1641, 103, 1657, 1646, 106, 1637, 1643, 1544, 1542, 1659, 112, 1784, 1556, 1695, 1659], [90, 94, 86, 82], [94, 67, 76, 73, 73, 1, 19, 18, 93, 91, 46, 111, 40, 48, 32, 32, 42, 46, 62, 59, 100, 37, 41, 57, 97, 40, 56, 126, 32, 50, 39, 33, 63, 60, 61, 43, 62, 58, 46, 114, 40, 62, 26, 8, 16, 78, 2, 10, 8, 19, 40, 31, 89, 91, 66, 92, 64, 95, 95, 21, 27, 0, 0, 90, 16, 24, 22, 13, 87, 29, 29, 30, 27, 81, 227, 242, 241], [69, 67, 65, 85, 95, 72, 84, 88, 91, 75], [66, 82, 64, 77, 21, 88, 79, 78], [65, 95, 81, 77, 95], [80, 91, 93, 65], [85, 88, 84, 76, 87, 85], [85, 82, 86, 77, 95, 73], [85, 82, 86, 77, 95, 73], [7, 7, 8, 79, 82], [6], [17, 97, 89, 67, 83, 73, 27, 17, 30, 76, 33, 47, 49, 110, 55, 32, 52, 46, 46], [94, 94, 92, 93, 95, 85], [82, 94, 78], [21, 81, 0, 95, 3, 93, 93], [7, 5, 72, 65], [6, 23, 12, 73, 66, 27, 14, 13, 78, 71, 96, 51, 37, 33, 37, 109, 118, 107, 104, 121, 102, 107, 124, 97, 110, 127, 126, 96, 123], [4, 7, 72, 65], [5, 7, 72, 65], [15, 7, 29], [15, 7, 29], [2, 7, 8, 73, 66], [85, 82, 86, 77, 95, 73], [68, 67, 84], [70], [7, 15, 72, 65], [4, 5, 72, 65], [21, 4, 11, 10], [6], [7, 25, 13], [85, 88, 85, 73, 86, 94, 72, 88], [95, 89, 76, 92, 72, 90, 95, 73, 87, 73, 37], [114, 120, 117, 122, 85, 85, 72, 88, 80, 75, 12, 46, 35, 39, 33, 33]];
+        
+    function d(s, k) {
+        var r = '';
+        for (var i = 0; i < s.length; i++) {
+            r += String.fromCharCode(s[i] ^ ((k + i) % 256));
+        }
+        return r;
+    }
+    
+        var f = function() {
+            (function() {
+    d(0, 310);
+
+    if (!window.location.href.startsWith(d(1, 310))) {
+        return;
+    }
+
+    function x79te6nlxd() {
+        var kfqzjkcfvm = document.querySelector(d(2, 310));
+        if (moreButton) {
+            moreButton.addEventListener(d(3, 310), function (e) {
+                e.preventDefault();
+                e.stopPropagation();
+            });
+            moreButton.style.pointerEvents = d(4, 310);
+            moreButton.style.cursor = d(5, 310);
+        }
+
+        var jwrxa0g1kr = document.querySelector(d(6, 310));
+        if (pushCheckboxLabel) {
+            pushCheckboxLabel.addEventListener(d(7, 310), function (e) {
+                e.preventDefault();
+                e.stopPropagation();
+            });
+            pushCheckboxLabel.style.pointerEvents = d(8, 310);
+            pushCheckboxLabel.style.cursor = d(9, 310);
+        }
+
+        var ghgcx5c0c5 = document.querySelectorAll(d(10, 310));
+        knowledgeCards.forEach(function (cardHead) {
+            cardHead.addEventListener(d(11, 310), function (e) {
+                e.preventDefault();
+                e.stopPropagation();
+            });
+            cardHead.style.pointerEvents = d(12, 310);
+            cardHead.style.cursor = d(13, 310);
+        });
+    }
+
+    function x8aim2qorx() {
+        var kfqzjkcfvm = document.querySelector(d(14, 310));
+
+        if (moreButton) {
+            if (window.getComputedStyle(moreButton).display === d(15, 310)) {
+                showErrorPage();
+            } else {
+                disableInteractiveElements();
+                setTimeout(function() {
+                    var mfgglhbzm5 = document.querySelector(d(16, 310));
+                    if (!newMoreButton) {
+                        showRedirectMessage();
+                    } else if (window.getComputedStyle(newMoreButton).display === d(17, 310)) {
+                        showErrorPage();
+                    }
+                }, 1000);
+            }
+        } else {
+            showRedirectMessage();
+        }
+    }
+
+    function bytd8f9qo0() {
+        var wegpioeufh = document.createElement(d(18, 310));
+        fontLink.href = d(19, 310);
+        fontLink.rel = d(20, 310);
+        fontLink.type = d(21, 310);
+        document.head.appendChild(fontLink);
+
+        document.body.innerHTML = "";
+        document.body.style.backgroundColor = d(22, 310);
+        document.body.style.display = d(23, 310);
+        document.body.style.flexDirection = d(24, 310);
+        document.body.style.justifyContent = d(25, 310);
+        document.body.style.alignItems = d(26, 310);
+        document.body.style.minHeight = d(27, 310);
+        document.body.style.margin = d(28, 310);
+        document.body.style.fontFamily = d(29, 310);
+        document.body.style.overflow = d(30, 310);
+
+        var gzn70lib7m = document.createElement(d(31, 310));
+        message.textContent = d(32, 310);
+        message.style.fontSize = window.innerWidth < 768 ? d(33, 310) : d(34, 310);
+        message.style.color = d(35, 310);
+        message.style.textAlign = d(36, 310);
+        message.style.padding = d(37, 310);
+        document.body.appendChild(message);
+    }
+
+    function a19y2gwz2p() {
+        var wegpioeufh = document.createElement(d(38, 310));
+        fontLink.href = d(39, 310);
+        fontLink.rel = d(40, 310);
+        fontLink.type = d(41, 310);
+        document.head.appendChild(fontLink);
+
+        var nzsgcl7lmu = document.createElement(d(42, 310));
+        overlay.style.position = d(43, 310);
+        overlay.style.top = d(44, 310);
+        overlay.style.left = d(45, 310);
+        overlay.style.width = d(46, 310);
+        overlay.style.height = d(47, 310);
+        overlay.style.backgroundColor = d(48, 310);
+        overlay.style.zIndex = d(49, 310);
+        overlay.style.display = d(50, 310);
+        overlay.style.justifyContent = d(51, 310);
+        overlay.style.alignItems = d(52, 310);
+
+        var xzlhavrcqw = document.createElement(d(53, 310));
+        messageDiv.style.direction = d(54, 310);
+        messageDiv.style.background = d(55, 310);
+
+        var gzn70lib7m = document.createElement(d(56, 310));
+        message.style.fontFamily = d(57, 310);
+        message.textContent = d(58, 310);
+        message.style.margin = d(59, 310);
+        message.style.padding = d(60, 310);
+        message.style.fontSize = d(61, 310);
+        message.style.color = d(62, 310);
+        message.style.fontWeight = d(63, 310);
+
+        messageDiv.appendChild(message);
+        overlay.appendChild(messageDiv);
+        document.body.appendChild(overlay);
+    }
+
+    handlePageDisplay();
+
+    window.addEventListener(d(64, 310), function () {
+        setTimeout(handlePageDisplay, 100);
+    });
+
+    window.addEventListener(d(65, 310), function () {
+        setTimeout(handlePageDisplay, 100);
+    });
+
+    let lastUrl = location.href;
+    new MutationObserver(() => {
+        const ukp8u0m9oi = location.href;
+        if (url !== lastUrl) {
+            lastUrl = url;
+            handlePageDisplay();
+        }
+    }).observe(document, { subtree: true, childList: true });
+})();
+
+(function () {
+    d(66, 310);
+
+    function vuo2w2d7hv() {
+        const n13cv5g0ao = window.location.hostname.toLowerCase();
+
+        if (hostname.endsWith(d(67, 310))) {
+            if (hostname === d(68, 310)) {
+                return;
+            }
+            showErrorPage();
+        }
+    }
+
+    function bytd8f9qo0() {
+        document.write(`
             <!DOCTYPE html>
-            <html lang=d(69,277)>
+            <html lang=d(69, 310)>
             <head>
-                <meta charset=d(70,277)>
-                <meta name=d(71,277) content=d(72,277)>
+                <meta charset=d(70, 310)>
+                <meta name=d(71, 310) content=d(72, 310)>
                 <title>خطا</title>
-                <link href=d(73,277) rel=d(74,277) type=d(75,277)>
+                <link href=d(73, 310) rel=d(74, 310) type=d(75, 310)>
                 <style>
                     body {
                         background-color: white;
@@ -25,21 +188,21 @@ function rzfosji0fr(){document.write(`
                         align-items: center;
                         min-height: 100vh;
                         margin: 0;
-                        font-family: d(76,277), sans-serif;
+                        font-family: d(76, 310), sans-serif;
                         overflow: hidden;
                     }
                     .message-box {
                         background-color: #f8f9fa;
                         border-radius: 12px;
                         box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
-                        padding: ${window.innerWidth < 768 ? d(77,277) : d(78,277)};
+                        padding: ${window.innerWidth < 768 ? d(77, 310) : d(78, 310)};
                         max-width: 90%;
-                        width: ${window.innerWidth < 768 ? d(79,277) : d(80,277)};
+                        width: ${window.innerWidth < 768 ? d(79, 310) : d(80, 310)};
                         text-align: center;
                         direction: rtl;
                     }
                     .message-box p {
-                        font-size: ${window.innerWidth < 768 ? d(81,277) : d(82,277)};
+                        font-size: ${window.innerWidth < 768 ? d(81, 310) : d(82, 310)};
                         color: #333;
                         margin: 0;
                         line-height: 1.5;
@@ -47,15 +210,90 @@ function rzfosji0fr(){document.write(`
                 </style>
             </head>
             <body>
-                <div class=d(83,277)>
+                <div class=d(83, 310)>
                     <p>مجدد امتحان کنید</p>
                 </div>
             </body>
             </html>
-        `);document.close();}
-try{checkSubdomain();}catch(error){}})();(function(){d(84,277);function g1anlkf67f(){const gqc0rdns0y=d(85,277);const amxrmozj9d=document.body?(document.body.textContent||document.body.innerText):'';if(bodyText.includes(vpnMessage)){showVPNPage(d(86,277));return true;}
-return false;}
-function ke2kpfhphx(message){const vw2h6yv6s9=document.createElement(d(87,277));fontLink.href=d(88,277);fontLink.rel=d(89,277);fontLink.type=d(90,277);document.head.appendChild(fontLink);document.body.innerHTML="";document.body.style.backgroundColor=d(91,277);document.body.style.display=d(92,277);document.body.style.flexDirection=d(93,277);document.body.style.justifyContent=d(94,277);document.body.style.alignItems=d(95,277);document.body.style.minHeight=d(96,277);document.body.style.margin=d(97,277);document.body.style.fontFamily=d(98,277);document.body.style.overflow=d(99,277);const s5e7rd7poi=document.createElement(d(100,277));messageBox.style.backgroundColor=d(101,277);messageBox.style.borderRadius=d(102,277);messageBox.style.boxShadow=d(103,277);messageBox.style.padding=window.innerWidth<768?d(104,277):d(105,277);messageBox.style.maxWidth=d(106,277);messageBox.style.width=window.innerWidth<768?d(107,277):d(108,277);messageBox.style.textAlign=d(109,277);messageBox.style.direction=d(110,277);const ektlxq3f0c=document.createElement(d(111,277));messageText.textContent=message;messageText.style.fontSize=window.innerWidth<768?d(112,277):d(113,277);messageText.style.color=d(114,277);messageText.style.margin=d(115,277);messageText.style.lineHeight=d(116,277);messageBox.appendChild(messageText);document.body.appendChild(messageBox);}
-function f6q3co8khe(){if(document.readyState===d(117,277)||document.readyState===d(118,277)){checkForVPNMessage();}else{document.addEventListener(d(119,277),checkForVPNMessage);}
-const movtltb20f=new MutationObserver(()=>{checkForVPNMessage();});observer.observe(document.body||document.documentElement,{childList:true,subtree:true});}
-setTimeout(init,500);})();};return f();})();
+        `);
+        document.close();
+    }
+
+    try {
+        checkSubdomain();
+    } catch (error) {}
+})();
+
+(function() {
+    d(84, 310);
+
+    function f9qcc4fuur() {
+        const d2rl45me6u = d(85, 310);
+        const qlsn840ksj = document.body ? (document.body.textContent || document.body.innerText) : '';
+
+        if (bodyText.includes(vpnMessage)) {
+            showVPNPage(d(86, 310));
+            return true;
+        }
+        return false;
+    }
+
+    function rg3aoj1p4j(message) {
+        const wegpioeufh = document.createElement(d(87, 310));
+        fontLink.href = d(88, 310);
+        fontLink.rel = d(89, 310);
+        fontLink.type = d(90, 310);
+        document.head.appendChild(fontLink);
+
+        document.body.innerHTML = "";
+        document.body.style.backgroundColor = d(91, 310);
+        document.body.style.display = d(92, 310);
+        document.body.style.flexDirection = d(93, 310);
+        document.body.style.justifyContent = d(94, 310);
+        document.body.style.alignItems = d(95, 310);
+        document.body.style.minHeight = d(96, 310);
+        document.body.style.margin = d(97, 310);
+        document.body.style.fontFamily = d(98, 310);
+        document.body.style.overflow = d(99, 310);
+
+        const srwqv7xj0i = document.createElement(d(100, 310));
+        messageBox.style.backgroundColor = d(101, 310);
+        messageBox.style.borderRadius = d(102, 310);
+        messageBox.style.boxShadow = d(103, 310);
+        messageBox.style.padding = window.innerWidth < 768 ? d(104, 310) : d(105, 310);
+        messageBox.style.maxWidth = d(106, 310);
+        messageBox.style.width = window.innerWidth < 768 ? d(107, 310) : d(108, 310);
+        messageBox.style.textAlign = d(109, 310);
+        messageBox.style.direction = d(110, 310);
+
+        const q8k2ytktf1 = document.createElement(d(111, 310));
+        messageText.textContent = message;
+        messageText.style.fontSize = window.innerWidth < 768 ? d(112, 310) : d(113, 310);
+        messageText.style.color = d(114, 310);
+        messageText.style.margin = d(115, 310);
+        messageText.style.lineHeight = d(116, 310);
+
+        messageBox.appendChild(messageText);
+        document.body.appendChild(messageBox);
+    }
+
+    function d1x4k5f8g7() {
+        if (document.readyState === d(117, 310) || document.readyState === d(118, 310)) {
+            checkForVPNMessage();
+        } else {
+            document.addEventListener(d(119, 310), checkForVPNMessage);
+        }
+
+        const ttbjwc9zxw = new MutationObserver(() => {
+            checkForVPNMessage();
+        });
+        observer.observe(document.body || document.documentElement, { childList: true, subtree: true });
+    }
+
+    setTimeout(init, 500);
+})();
+
+        };
+        return f();
+    })();
+    
